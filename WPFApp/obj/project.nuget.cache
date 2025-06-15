@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FP5pY9hB/zs=",
+  "dgSpecHash": "uHXMt7fCnFo=",
   "success": true,
-  "projectFilePath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\WPFApp\\WPFApp.csproj",
+  "projectFilePath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\WPFApp\\WPFApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

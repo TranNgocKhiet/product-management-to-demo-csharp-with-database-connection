@@ -28,10 +28,10 @@ namespace WPFApp
                 cboCategory.SelectedValuePath = "CategoryId";
 
                 // Auto choose the first category if available
-                //if (catList != null && catList.Any())
-                //{
-                //    cboCategory.SelectedIndex = 0;
-                //}
+                if (catList != null && catList.Any())
+                {
+                    cboCategory.SelectedIndex = 0;
+                }
             }
             catch (Exception ex)
             {
@@ -67,22 +67,6 @@ namespace WPFApp
             try
             {
                 Product product = new Product();
-
-                // Automatically generate ProductID
-                //var products = iProductService.GetProducts();
-                //int autoIncreaseID = 0;
-                //foreach (var p in products.ToList())
-                //{
-                //    if (p.ProductId == autoIncreaseID)
-                //    {
-                //        autoIncreaseID++;
-                //    }
-                //    else
-                //    {
-                //        break;
-                //    }
-                //}
-                //product.ProductId = autoIncreaseID;
 
                 product.ProductName = txtProductName.Text;
                 product.UnitPrice = Decimal.Parse(txtPrice.Text);
@@ -175,22 +159,34 @@ namespace WPFApp
             {
                 if (txtProductID.Text.Length > 0)
                 {
-                    Product product = new Product();
-                    product.ProductId = Int32.Parse(txtProductID.Text);
-                    product.ProductName = txtProductName.Text;
-                    product.UnitPrice = Decimal.Parse(txtPrice.Text);
-                    product.UnitsInStock = short.Parse(txtUnitsInStock.Text);
-                    product.CategoryId = Int32.Parse(cboCategory.SelectedValue.ToString());
-                    iProductService.DeleteProduct(product);
+                    MessageBoxResult result = MessageBox.Show(
+                        "Are you sure you want to delete this product?",
+                        "Confirm Deletion",
+                        MessageBoxButton.YesNo,
+                        MessageBoxImage.Warning);
+
+                    if (result == MessageBoxResult.Yes)
+                    {
+                        Product product = new Product
+                        {
+                            ProductId = Int32.Parse(txtProductID.Text),
+                            ProductName = txtProductName.Text,
+                            UnitPrice = Decimal.Parse(txtPrice.Text),
+                            UnitsInStock = short.Parse(txtUnitsInStock.Text),
+                            CategoryId = Int32.Parse(cboCategory.SelectedValue.ToString())
+                        };
+
+                        iProductService.DeleteProduct(product);
+                    }
                 }
                 else
                 {
-                    MessageBox.Show("You must select a Product !");
+                    MessageBox.Show("You must select a Product!", "Warning", MessageBoxButton.OK, MessageBoxImage.Warning);
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show(ex.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
             finally
             {

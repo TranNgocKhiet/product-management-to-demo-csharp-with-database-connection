@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\WPFApp\\WPFApp.csproj": {}
+    "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\WPFApp\\WPFApp.csproj": {}
   },
   "projects": {
-    "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
+    "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\BusinessObjects\\obj\\",
+        "outputPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,14 +93,14 @@
         }
       }
     },
-    "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,8 +121,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
@@ -186,14 +186,14 @@
         }
       }
     },
-    "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\Repositories\\Repositories.csproj": {
+    "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\Repositories\\Repositories.csproj",
+        "projectPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\Repositories\\obj\\",
+        "outputPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -214,11 +214,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }
@@ -282,14 +282,14 @@
         }
       }
     },
-    "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\Services\\Services.csproj": {
+    "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\Services\\Services.csproj",
+        "projectPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\Services\\obj\\",
+        "outputPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -310,11 +310,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\Repositories\\Repositories.csproj"
+              "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -378,14 +378,14 @@
         }
       }
     },
-    "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\WPFApp\\WPFApp.csproj": {
+    "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\WPFApp\\WPFApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\WPFApp\\WPFApp.csproj",
+        "projectUniqueName": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\WPFApp\\WPFApp.csproj",
         "projectName": "WPFApp",
-        "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\WPFApp\\WPFApp.csproj",
+        "projectPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\WPFApp\\WPFApp.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\WPFApp\\obj\\",
+        "outputPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\WPFApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -406,11 +406,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\Services\\Services.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\lab-2\\ProductManagementDemo\\Services\\Services.csproj"
+              "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Services\\Services.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Services\\Services.csproj"
               }
             }
           }
