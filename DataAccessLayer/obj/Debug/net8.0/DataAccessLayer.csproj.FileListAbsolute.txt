@@ -56,7 +56,6 @@ D:\1_fpt\5_su25\4_prn212\2_project\lab-2\ProductManagementDemo\DataAccessLayer\o
 D:\1_fpt\5_su25\4_prn212\2_project\lab-2\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 D:\1_fpt\5_su25\4_prn212\2_project\lab-2\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
 D:\1_fpt\5_su25\4_prn212\2_project\lab-2\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
-D:\6_github_repositories\prn212-lab-2\product-management-to-demo-csharp-with-database-connection\DataAccessLayer\bin\Debug\net8.0\appsettings.json
 D:\6_github_repositories\prn212-lab-2\product-management-to-demo-csharp-with-database-connection\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
 D:\6_github_repositories\prn212-lab-2\product-management-to-demo-csharp-with-database-connection\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
 D:\6_github_repositories\prn212-lab-2\product-management-to-demo-csharp-with-database-connection\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll

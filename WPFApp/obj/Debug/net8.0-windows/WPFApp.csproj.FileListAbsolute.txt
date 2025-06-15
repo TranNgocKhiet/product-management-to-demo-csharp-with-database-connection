@@ -544,7 +544,6 @@ D:\1_fpt\5_su25\4_prn212\2_project\lab-2\ProductManagementDemo\WPFApp\obj\Debug\
 D:\1_fpt\5_su25\4_prn212\2_project\lab-2\ProductManagementDemo\WPFApp\obj\Debug\net8.0-windows\WPFApp.pdb
 D:\1_fpt\5_su25\4_prn212\2_project\lab-2\ProductManagementDemo\WPFApp\obj\Debug\net8.0-windows\WPFApp.genruntimeconfig.cache
 D:\1_fpt\5_su25\4_prn212\2_project\lab-2\ProductManagementDemo\WPFApp\obj\Debug\net8.0-windows\ref\WPFApp.dll
-D:\6_github_repositories\prn212-lab-2\product-management-to-demo-csharp-with-database-connection\WPFApp\bin\Debug\net8.0-windows\appsettings.json
 D:\6_github_repositories\prn212-lab-2\product-management-to-demo-csharp-with-database-connection\WPFApp\bin\Debug\net8.0-windows\WPFApp.exe
 D:\6_github_repositories\prn212-lab-2\product-management-to-demo-csharp-with-database-connection\WPFApp\bin\Debug\net8.0-windows\WPFApp.deps.json
 D:\6_github_repositories\prn212-lab-2\product-management-to-demo-csharp-with-database-connection\WPFApp\bin\Debug\net8.0-windows\WPFApp.runtimeconfig.json

@@ -1,8 +1,9 @@
-﻿using System;
+﻿using BusinessObjects;
+using Services;
+using System;
+using System.ComponentModel;
 using System.Windows;
 using System.Windows.Controls;
-using BusinessObjects;
-using Services;
 
 namespace WPFApp
 {
@@ -201,6 +202,11 @@ namespace WPFApp
             txtPrice.Text = "";
             txtUnitsInStock.Text = "";
             cboCategory.SelectedValue = 0;
+        }
+
+        private void Window_Closing(object sender, CancelEventArgs e)
+        {
+            e.Cancel = true;
         }
     }
 }

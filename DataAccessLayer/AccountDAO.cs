@@ -1,4 +1,5 @@
 ﻿using BusinessObjects;
+using Castle.Core.Resource;
 using System.Linq;
 
 namespace DataAccessLayer
@@ -7,8 +8,18 @@ namespace DataAccessLayer
     {
         public static AccountMember GetAccountById(String accountID)
         {
-            using var db = new MyStoreContext();
-            return db.AccountMembers.FirstOrDefault(c => c.MemberId.Equals(accountID));
+            try
+            {
+                using var db = new MyStoreContext();
+                AccountMember account = db.AccountMembers.FirstOrDefault(c => c.MemberId.Equals(accountID));
+                if (account != null)
+                    return account;
+                return null;
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
         }
     }
 }

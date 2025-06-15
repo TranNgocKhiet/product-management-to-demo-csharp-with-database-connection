@@ -7,16 +7,36 @@
       "RelativeMoniker": "D:0:0:{100D29A4-D4A9-4CC0-A91B-4BB87B606BA5}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{100D29A4-D4A9-4CC0-A91B-4BB87B606BA5}|DataAccessLayer\\DataAccessLayer.csproj|d:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100D29A4-D4A9-4CC0-A91B-4BB87B606BA5}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100D29A4-D4A9-4CC0-A91B-4BB87B606BA5}|DataAccessLayer\\DataAccessLayer.csproj|d:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100D29A4-D4A9-4CC0-A91B-4BB87B606BA5}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100D29A4-D4A9-4CC0-A91B-4BB87B606BA5}|DataAccessLayer\\DataAccessLayer.csproj|d:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100D29A4-D4A9-4CC0-A91B-4BB87B606BA5}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ACD24B8-D9F5-45D0-81E7-7C0028343B04}|BusinessObjects\\BusinessObjects.csproj|d:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ACD24B8-D9F5-45D0-81E7-7C0028343B04}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|d:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|d:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E110A7-A3CA-4E09-B455-E73640762EA5}|Services\\Services.csproj|d:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E110A7-A3CA-4E09-B455-E73640762EA5}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|d:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|d:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D80AECE-DC99-4D64-92ED-68F3E1E244FC}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +46,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:54:22.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:54:18.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:48:19.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:48:05.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:37:06.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\MyStoreContext.cs",
+              "ToolTip": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\MyStoreContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\MyStoreContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywBIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:32:11.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AccountMember.cs",
               "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\BusinessObjects\\AccountMember.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\AccountMember.cs",
@@ -43,20 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountDAO.cs",
-              "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\AccountDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
-              "ToolTip": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\DataAccessLayer\\AccountDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T08:17:33.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\WPFApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
@@ -68,13 +153,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\WPFApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
               "ToolTip": "D:\\6_github_repositories\\prn212-lab-2\\product-management-to-demo-csharp-with-database-connection\\WPFApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAcwFkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAowM4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T08:15:57.18Z",
               "EditorCaption": ""

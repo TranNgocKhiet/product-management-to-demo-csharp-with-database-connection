@@ -68,7 +68,6 @@ D:\1_fpt\5_su25\4_prn212\2_project\lab-2\ProductManagementDemo\Services\obj\Debu
 D:\1_fpt\5_su25\4_prn212\2_project\lab-2\ProductManagementDemo\Services\obj\Debug\net8.0\Services.pdb
 D:\1_fpt\5_su25\4_prn212\2_project\lab-2\ProductManagementDemo\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
 D:\1_fpt\5_su25\4_prn212\2_project\lab-2\ProductManagementDemo\Services\obj\Debug\net8.0\ref\Services.dll
-D:\6_github_repositories\prn212-lab-2\product-management-to-demo-csharp-with-database-connection\Services\bin\Debug\net8.0\appsettings.json
 D:\6_github_repositories\prn212-lab-2\product-management-to-demo-csharp-with-database-connection\Services\bin\Debug\net8.0\Services.deps.json
 D:\6_github_repositories\prn212-lab-2\product-management-to-demo-csharp-with-database-connection\Services\bin\Debug\net8.0\Services.runtimeconfig.json
 D:\6_github_repositories\prn212-lab-2\product-management-to-demo-csharp-with-database-connection\Services\bin\Debug\net8.0\Services.dll
